@@ -11,5 +11,6 @@ public class User {
         System.out.println("push 代码到远程仓库");
         System.out.println("push 代码到远程仓库2");
         System.out.println("push 代码到远程仓库3");
+        System.out.println("push 代码到远程仓库4");
     }
 }

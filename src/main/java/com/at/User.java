@@ -8,5 +8,7 @@ public class User {
         System.out.println("聚集成长");
         System.out.println("主支线");
         System.out.println("复现");
+        System.out.println("push 代码到远程仓库");
+        System.out.println("push 代码到远程仓库2");
     }
 }

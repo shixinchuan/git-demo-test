@@ -5,5 +5,6 @@ public class User {
         System.out.println("hi nice to meet you");
         System.out.println("笑脸");
         System.out.println("亨特");
+        System.out.println("聚集成长");
     }
 }
